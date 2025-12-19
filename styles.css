@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #222;
+}
+
+.hero {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.btn {
+  display: inline-block;
+  background: #00c896;
+  color: white;
+  padding: 12px 25px;
+  margin-top: 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+section {
+  padding: 60px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  background: #f4f4f4;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.demo-box {
+  background: #eee;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+}
+
+.contact {
+  text-align: center;
+  background: #f9f9f9;
+}
